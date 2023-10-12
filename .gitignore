@@ -1,5 +1,7 @@
 node_modules
 /.devcontainer/
+/.firebase/
+/.github/
 
 # Node.js dependencies
 node_modules/

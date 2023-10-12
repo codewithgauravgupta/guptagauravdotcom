@@ -15,3 +15,5 @@ COPY . .
 
 # Run npm install to install dependencies
 RUN npm install
+RUN npm install -g firebase-tools -y
+RUN npm run build
