@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Personal Portfolio",
+    "description": "Built using ReactJS to establish a digital precence, It showcases information about me, projects that encompass my areas of interest and learning endeavors and blogs on various topics.",
+    "url_github": "https://github.com/gaurav997/guptagauravdotcom",
+    "url_demo": "https://guptagaurav.com/"
+  },
+  {
+    "name": "Live Weather App",
+    "description": "Built using ReactJS, Express to integrate \"OpenWeatherMap API\" for real-time and historical air pollution data. It also provides accurate location-based weather forecasts, aiding users in planning activities based on atmospheric conditions.",
+    "url_github": "https://github.com/gaurav997/liveWeatherApp",
+    "url_demo": "https://liveweatherapp-5fd48.web.app/"
+  },
+  {
+    "name": "Project 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "url_github": "https://github.com/",
+    "url_demo": ""
+  },
+  {
+    "name": "Project 4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "url_github": "https://github.com/",
+    "url_demo": ""
+  },
+  {
+    "name": "Project 5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "url_github": "https://github.com/",
+    "url_demo": ""
+  }
+]
