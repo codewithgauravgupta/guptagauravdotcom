@@ -1,0 +1,38 @@
+node_modules
+/.devcontainer/
+
+# Node.js dependencies
+node_modules/
+
+# Firebase related files
+firebase.json
+.firebaserc
+
+# Environment variables (if you are using dotenv or similar)
+.env
+
+# Log files
+*.log
+
+# Editor specific files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# npm debugging logs
+npm-debug.log
+
+# Firebase Functions specific
+/functions/node_modules/
+/functions/lib/
+/functions/.eslintrc.js
+/functions/.eslintcache
+/functions/*.log
+
+# Firebase Hosting public directory
+/public
+
+# Firebase Cloud Functions public directory
+/functions/public

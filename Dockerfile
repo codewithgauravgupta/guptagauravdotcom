@@ -12,3 +12,6 @@ RUN apt-get update \
 
 # Copy the rest of the application code to the container
 COPY . .
+
+# Run npm install to install dependencies
+RUN npm install
